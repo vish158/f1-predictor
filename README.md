@@ -13,7 +13,7 @@
 
 > _Configure any race grid → model outputs per-driver win probabilities in seconds._
 
-![App Screenshot](docs/screenshot.png)
+![App Screenshot](/F1 Race Predictor · Streamlit.pdf)
 
 **[🔴 Live Demo → your-app.streamlit.app](https://your-app.streamlit.app)**
 
