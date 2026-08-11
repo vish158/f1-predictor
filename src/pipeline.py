@@ -27,7 +27,7 @@ FEATURES = [
 # STEP 1: Fetch data
 # ─────────────────────────────────────────────
 
-def fetch_race_results(season_start: int = 2010, season_end: int = 2024, delay: float = 0.3) -> pd.DataFrame:
+def fetch_race_results(season_start: int = 2010, season_end: int = 2026, delay: float = 0.3) -> pd.DataFrame:
     """
     Fetches race results for every season in the given range from the Jolpica F1 API.
     Includes retry logic and rate-limit-safe delays between requests.
